@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Live In"
-date:   2015-10-06 15:39:40
-preview: "_includes/me and franz 2.png"
+title: Live In
+date: {}
+preview: _includes/me and franz 2.png
+published: true
 ---
 
 Live in (A work of Art) is an installation aiming to blur the boundary between an everyday, real life living scene and an art installation. It mixes mass-produced objects and hand-made ones made especially for the installation. The Mask is having its ‘double-life’ by definition, as an object existing both as an art work and as a functional item. I call the red object an In-Between Object, as it has no defined function but can be assigned multiples, from contemplative object to wearable prop or functional item.  
