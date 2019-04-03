@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: 2015-10-10-live-in
+date: 2015-10-10
+preview: "images/me and franz 2.png"
+published: true
 ---
 ## A New Post
 
