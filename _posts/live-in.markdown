@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live In
+title: 2015-10-10-live-in
 date: {}
 preview: _includes/me and franz 2.png
 published: true
