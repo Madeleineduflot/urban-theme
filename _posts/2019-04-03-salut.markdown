@@ -2,7 +2,7 @@
 layout: post
 title: salut
 date: 2015-10-10
-preview: "images/me and franz 2.png"
+preview: holder.js/400x400?auto=yes
 published: true
 ---
 salut ca va bien et toi bien merci a plus

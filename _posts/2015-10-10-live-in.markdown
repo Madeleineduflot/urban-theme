@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 2015-10-10-live-in
+title: Live In (A work of Art)
 date: 2015-10-10
-preview: "images/me and franz 2.png"
+preview: holder.js/500x700?auto=yes
 published: true
 ---
 
-Live in (A work of Art) is an installation aiming to blur the boundary between an everyday, real life living scene and an art installation. It mixes mass-produced objects and hand-made ones made especially for the installation. The Mask is having its ‘double-life’ by definition, as an object existing both as an art work and as a functional item. I call the red object an In-Between Object, as it has no defined function but can be assigned multiples, from contemplative object to wearable prop or functional item.  
+Live in (A work of Art) is an installation aiming to blur the boundary between an everyday, real life living scene and an art installation. It mixes mass-produced objects and hand-made ones made especially for the installation. The Mask is having its ‘double-life’ by definition, as an object existing both as an art work and as a functional item. I call the red object an In-Between Object, as it has no defined function but can be assigned multiples, from contemplative object to wearable prop or functional item.
 
-I want to demystify the ‘Art work’ and create a way for it to infiltrate our daily lives. So as part of my practice, I would like this In-Between Object to follow its own design route and be mass-produced after it being born in an Art context. The oranges are a reference to Bruno Munari text ‘Orange’, where he describes the fruit from a design point of view. 
+I want to demystify the ‘Art work’ and create a way for it to infiltrate our daily lives. So as part of my practice, I would like this In-Between Object to follow its own design route and be mass-produced after it being born in an Art context. The oranges are a reference to Bruno Munari text ‘Orange’, where he describes the fruit from a design point of view.
 
 I believe this installation shows how much context can define the objects and thus how ‘open’ they can be to different interpretation and use, and how art can then easily become accessible for a ‘daily use’.
 
