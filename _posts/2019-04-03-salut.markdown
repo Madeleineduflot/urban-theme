@@ -1,8 +1,8 @@
 ---
 layout: post
-title: salut
+title: HOP
 date: 2015-10-10
-preview: holder.js/400x400?auto=yes
+preview: images/HOP.jpg
 published: true
 ---
 salut ca va bien et toi bien merci a plus
